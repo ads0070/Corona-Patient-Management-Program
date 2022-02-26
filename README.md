@@ -2,5 +2,5 @@
 ## 3분반 6조 코로나 환자 관리 프로그램
 
 개발 환경
-Oracle 11g (sqldeveloper)
-Pro*C (IDE: Visual Studio 2019)
+<br>Oracle 11g (sqldeveloper)
+<br>Pro*C (IDE: Visual Studio 2019)
