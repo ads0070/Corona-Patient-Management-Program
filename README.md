@@ -21,7 +21,6 @@
 * DB : Oracle 11g
 * Programming Language : Pro*C
 * IDE : Visual Studio 2019. SQL Developer
-* Version control : Git
 ```
 
 ## 3. 분석 및 설계
