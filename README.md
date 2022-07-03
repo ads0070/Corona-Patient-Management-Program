@@ -38,5 +38,4 @@
 <img src="image/erd.png" width="750" height="300"/></p>
 
 ## 4. 데모 영상
-
-[![데모 영상](http://img.youtube.com/vi/xyZ3uUWMG5c/0.jpg)](https://youtu.be/xyZ3uUWMG5c)
+[![데모 영상](http://img.youtube.com/vi/zwD7oxrR2a4/0.jpg)](https://youtu.be/xyzwD7oxrR2a4)
